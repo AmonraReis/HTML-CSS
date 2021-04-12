@@ -1,0 +1,38 @@
+body{
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+
+}
+.form{
+    width: 400px;
+    margin: auto;
+    padding-top: 40px;
+    
+}
+.card{
+    box-shadow: 1px 1px 5px #cccccc;
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+
+
+}
+.imglogin{
+    border-radius: 50px;
+    width: 100px;
+    box-shadow: 1px 1px 5px #f0f0f0;
+}
+.card-top{
+    text-align: center;
+}
+.card-group{
+    margin-bottom: 15px;
+}
+.card-group>label{
+    display: block;
+    width: 100%;
+    color: rgb(75,75,75);
+}
+.card-group>input{
+    border: none;
+}
